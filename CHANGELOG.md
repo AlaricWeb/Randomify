@@ -1,3 +1,7 @@
+# [1.1.0](https://github.com/AlaricWeb/Randomify/compare/v1.0.4...v1.1.0) (2024-03-17)
+
+
+
 ## [1.0.4](https://github.com/AlaricWeb/Randomify/compare/v1.0.2...v1.0.4) (2024-03-17)
 
 

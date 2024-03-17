@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext"],
+    "baseUrl": ".",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "strict": true,
+    "noUnusedLocals": true,
+    "declaration": true,
+    "noEmitOnError": true,
+    "sourceMap": false,
+    "esModuleInterop": true
+  },
+  "include": ["src/**/*.ts"]
+}

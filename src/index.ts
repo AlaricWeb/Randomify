@@ -3,3 +3,5 @@ async () => {
   const result = await FastGlob([".editorconfig", "**/index.js"]);
   console.log(result);
 };
+
+console.log("dsfsfsf");
